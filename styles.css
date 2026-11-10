@@ -1,5 +1,5 @@
 /* GEM Properties palette and form feedback */
-:root{--deep-emerald:#123D2B;--forest-green:#1E5940;--sage-green:#B6C99B;--soft-olive:#DDE6D5;--luxury-ivory:#F5F3EA;--champagne-gold:#C5A45D;--ink:var(--deep-emerald);--muted:#52665a;--cream:var(--soft-olive);--paper:var(--luxury-ivory);--lime:var(--sage-green);--line:#c5d2bf}
+:root{--deep-emerald:#123D2B;--forest-green:#1E5940;--sage-green:#B6C99B;--soft-olive:#DDE6D5;--luxury-ivory:#F5F3EA;--champagne-gold:#C5A45D;--ink:var(--deep-emerald);--muted:#52665a;--cream:var(--soft-olive);--paper:var(--luxury-ivory);--lime:var(--sage-green)!important;--line:#c5d2bf}
 body{background:var(--luxury-ivory)!important}
 .topbar{background:rgba(245,243,234,.94)!important;border-bottom-color:var(--sage-green)!important}
 .brand-logo{display:block;width:132px;height:48px;object-fit:contain;object-position:left center}
